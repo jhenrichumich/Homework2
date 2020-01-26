@@ -1,1 +1,70 @@
-h1, h2,h3, h4, h5, p {font-family: "Lucida Grande", sans-serif}
+h1,h2,h3,h4,h5,h6,p,a {
+    font-family: "Lucida Grande", sans-serif;
+    color: white;
+}
+
+h1{
+    font-size: 64px;
+    text-align: center
+}
+
+h2 {
+    font-size: 30px;
+    filter: drop-shadow(5px 5px 2px #808080);
+}
+
+p {
+    font-size: 24px;
+    padding-top: 20px;
+}
+
+body {
+    background-color: black;}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 525px;
+}
+
+main {
+    height: 150px, auto;
+    padding: 25px;
+}
+
+div#red{
+    background-color: red;
+    text-align: right;
+}
+
+#blue{
+    background-color: blue;
+    text-align: left;
+}
+
+#yellow {
+    background-color: yellow;
+    text-align: right;
+}
+
+#yellow h2 {
+    color: black;
+    filter: drop-shadow(5px 5px 2px,#c7e2c7);
+}
+
+#yellow p {
+    color: black;
+}
+
+#green {
+    background-color: green;
+    text-align: left;
+}
+
+footer {
+    text-align: right;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
