@@ -34,7 +34,7 @@ main {
     padding: 25px;
 }
 
-div#red{
+#red{
     background-color: red;
     text-align: right;
 }
