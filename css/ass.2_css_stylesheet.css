@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 h1,h2,h3,h4,h5,h6,p,a {
     font-family: "Lucida Grande", sans-serif;
     color: white;
@@ -17,9 +21,6 @@ p {
     font-size: 24px;
     padding-top: 20px;
 }
-
-body {
-    background-color: black;}
 
 img {
     display: block;
